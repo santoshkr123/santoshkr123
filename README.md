@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Santosh Kumar!
 
-<!--
-**santoshkr123/santoshkr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎯 Currently on a journey of **Learning Data Science in Public**
+- 📚 Documenting my progress through projects in **Python, SQL, Machine Learning**
+- 🛠️ Sharing notebooks, projects, and daily learnings openly
+- 🤝 Open to collaborations, learning groups, and new opportunities
+- 💬 Always happy to connect and discuss Data Science!
 
-Here are some ideas to get you started:
+## 🧠 Current Focus
+- Python for Data Science
+- SQL for Data Analysis
+- Machine Learning Foundations
+- Data Visualization and Storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Work in Progress)
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **Tools**: Jupyter Notebook, Git, GitHub
+
+## 📚 Learning-in-Public Projects
+- [📊 Data Science Practice](https://github.com/santoshkr123/Data-science-.git)
+
+
+## ✨ Fun Fact
+- I'm building skills one project and one notebook at a time 🚀  
+- I believe "Learning in public speeds up mastery and builds community!"
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/santosh-kumar-581807245/)
+- [Twitter/X](https://x.com/Santosh37107018)
+
+---
