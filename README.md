@@ -13,18 +13,6 @@
 
 ---
 
-## 🎯 Fun Fact
-- I'm building skills one project and one notebook at a time 🚀
-- I believe **"Learning in public speeds up mastery and builds community!"**
 
----
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/santosh-kumar-581807245/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  
-</p>
 
 ---
